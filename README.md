@@ -1,4 +1,4 @@
-## Hi there 👋
+## 게임 클라이언트 프로그래머 나호겸 👋
 
 <!--
 **zzx0147/zzx0147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
